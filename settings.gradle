@@ -1,0 +1,2 @@
+include ':app', ':horizontalrecyclerviewimageslibrary'
+rootProject.name='HorizontalRecyclerViewImages'
