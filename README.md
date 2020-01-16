@@ -1,6 +1,6 @@
 # Horizontal Recycler view images
 
-
+![screenshot-1579193341604](https://user-images.githubusercontent.com/11642459/72545987-bacd6a80-3868-11ea-8657-c84998cbe43d.jpg)
 
 Step 1. Add the JitPack repository to your build file
 
