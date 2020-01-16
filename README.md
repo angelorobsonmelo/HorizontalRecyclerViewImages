@@ -1,5 +1,5 @@
-# SearchableSpinner
-Horizontal Recycler view images
+# Horizontal Recycler view images
+
 
 
 Step 1. Add the JitPack repository to your build file
